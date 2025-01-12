@@ -4,7 +4,7 @@
 | Features | Status |
 |:---:|:---:|
 | Sleep Mode | Work |
-| Audio | Doesn't Work |
+| Audio | Work |
 | Battery status | Work |
 | Bluetooth | Work |
 | Brightness | Work |
@@ -25,7 +25,7 @@
 | Camera | Work |
 | Taking Picture | Work |
 | Video Recording | Doesn't Work |
-| Microphone | Doesn't Work |
+| Microphone | Work |
 | Power Button | Work |
-| Volume Button | Doesn't Work |
+| Volume Button | Work |
 | Waydroid | Work |
