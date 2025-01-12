@@ -24,7 +24,7 @@
 | Flashlight | Work |
 | Camera | Work |
 | Taking Picture | Work |
-| Video Recording | Doesn't Work |
+| Video Recording | Work |
 | Microphone | Work |
 | Power Button | Work |
 | Volume Button | Work |
