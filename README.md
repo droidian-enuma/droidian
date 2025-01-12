@@ -5,6 +5,7 @@
 |:---:|:---:|
 | Sleep Mode | Work |
 | Audio | Work |
+| Bluetooth Earphone | Work |
 | Battery status | Work |
 | Bluetooth | Work |
 | Brightness | Work |
@@ -19,6 +20,7 @@
 | Cellular Data | Work |
 | Mobile Hotspot | Work |
 | Xiaomi Keyboard | Work |
+| Mouse | Work |
 | Xiaomi Pen | Partially |
 | Xiaomi Pen Charging | Work |
 | Flashlight | Work |
