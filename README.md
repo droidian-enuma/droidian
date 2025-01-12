@@ -10,7 +10,9 @@
 | Brightness | Work |
 | Display | Work |
 | Touchscreen | Work |
+| Charging | Work |
 | USB | Work |
+| USB Networking | Work |
 | WiFi | Work |
 | Cellular | Work |
 | SMS | Work |
